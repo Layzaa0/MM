@@ -1,5 +1,4 @@
-import "./ComoFunciona.css";
-
+import "./comofunciona.css";
 const steps = [
   {
     num: "01",
