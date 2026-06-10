@@ -7,7 +7,7 @@ import ComoFunciona from "./components/principal/comofunciona.jsx";
 import Diferencial from "./components/principal/diferencial.jsx";
 import CTA from "./components/principal/cta.jsx";
 import Produtos from "./components/produto/produto.jsx";
-import Cadastro from "./components/cadastro/Cadastro.jsx";
+import Cadastro from "./components/cadastro/cadastro.jsx";
 import Login from "./components/login/login.jsx";
 
 function Home({ setPagina }) {
